@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "sky-test",
+      "repo": "https://github.com/jendermine/android_kernel_common",
+      "branch": "android12-5.10-sky",
+      "device": "sky"
     },
     "withKernelSU": true,
     "toolchains": [
