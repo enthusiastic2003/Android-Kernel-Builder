@@ -3,7 +3,7 @@
       "name": "sky-test",
       "repo": "https://github.com/jendermine/android_kernel_common",
       "branch": "android12-5.10-sky",
-      "device": "sky"
+      "device": "gki"
     },
     "withKernelSU": false,
     "toolchains": [
