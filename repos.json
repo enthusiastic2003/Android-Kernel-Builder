@@ -5,7 +5,7 @@
       "branch": "android12-5.10-sky",
       "device": "sky"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
